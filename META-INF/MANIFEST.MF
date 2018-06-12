@@ -1,0 +1,2 @@
+Main-Class: name.schedenig.adbcontrol.AdbControl
+
